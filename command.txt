@@ -1,0 +1,60 @@
+    1  pwd
+    2  ls
+    3  mkdir test_app
+    4  ls
+    5   cd essay mat
+    6  cd essaymat
+    7  cd essay mat
+    8  pwd
+    9  cs vision test series
+   10  cd vision test series
+   11  cd ..
+   12  cd ../..
+   13  ls desktop
+   14  cd 'essay mat'
+   15  desktop
+   16  ls test app
+   17  test app
+   18  ls
+   19  cd test app
+   20    clear
+   21  cd 'test app'
+   22  ls
+   23  cd test app
+   24  cd "test app"
+   25  cd test_app
+   26  pwd
+   27  mkdir f1
+   28  mkdir akash,bavana
+   29  mkdir f1 f2 f3
+   30  rmdir akash,bavana
+   31  clear
+   32  ls
+   33  rm -r f1
+   34  cd test_app
+   35  cd ..
+   36  cd test_app
+   37  cd test_app
+   38  clear
+   39  ls
+   40  rm-r f2
+   41  rm -r f2
+   42  mkdir test_app
+   43  cd test_app
+   44  cd ..
+   45  ls
+   46  rmdir f3 test_app
+   47  touch f1.txt
+   48  touch f2.sql f3.py f4.txt
+   49  ls
+   50  cd f1.text
+   51  cd f1.txt
+   52  cat f4.txt
+   53    clear
+   54  nano f3.py
+   55  cat f3.py
+   56  nano f1.txt
+   57  cat f1.txt
+   58  ls
+   59  cd test_app
+   60  history >> command.txt
